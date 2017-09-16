@@ -1,8 +1,4 @@
 
-
-
-
-
 // Fredrik
 if(a==0) return 1;
 if(a>b) return a+b-13;
